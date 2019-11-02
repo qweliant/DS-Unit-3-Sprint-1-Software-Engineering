@@ -1,0 +1,22 @@
+Acme Corporation isn't just a few .py files. 
+If you want to grow in your career here, you'll have to answer the following:
+
+What, in your opinion, is an important part of code reviews? 
+That is, what is something you pay attention to when you review 
+code, and that you appreciate when others do the same for your code?
+
+Answer: Gaining perspective on my code. Being taught by peers. Finding harmoniuous
+organization of folders and classes. Variable naming is nice, as well as as the felling
+of helping someone with their code.
+
+We have an awful lot of computers here, and it gets pretty confusing with 
+slightly different things running on all of them. How could containers help
+us improve this situation? Docker can run their own environments they are 
+separate from the operating system.
+
+Answer: Yes Docker can! Distributed filesystems allow for minimul friction when developers are on 
+different operating systems, or running differnet environments on their machines. So we can take a 
+plug and play approach to developing on the code base. System errors would thus be removed from casuing 
+delays in production
+
+Answer both of these questions (baseline ~5 sentences) here in text.
